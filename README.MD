@@ -5,4 +5,4 @@ use with OptiFine in Minecraft or other OpenGL applications where binary dumps o
 
 NOTE: The header of the .CUBE file has to be cleared! It should be a plaintext file consisting of a series of floats.
 
-USAGE: lutConverter.exe DIM_XYZ NUM_CHANNELS FILENAME FILENAME_OUT");
+USAGE: lutConverter.exe DIM_XYZ NUM_CHANNELS FILENAME FILENAME_OUT
