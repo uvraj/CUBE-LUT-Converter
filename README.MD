@@ -1,4 +1,4 @@
-#CUBE-LUT-Converter
+# CUBE-LUT-Converter
 This utility convers an Adobe CUBE color grading lookup table into a binary 3d texture, for
 use with OptiFine in Minecraft or other OpenGL applications where binary dumps of 3d textures are pratical.
 
